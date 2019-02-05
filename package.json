@@ -1,0 +1,19 @@
+{
+    "name": "spiders.fun",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "npx firebase deploy"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kaw2k/spiders.fun.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kaw2k/spiders.fun/issues"
+    },
+    "homepage": "https://github.com/kaw2k/spiders.fun#readme"
+}
